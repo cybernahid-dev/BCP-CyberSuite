@@ -33,8 +33,11 @@ Designed to run fully on **Termux (Android)**, it combines advanced scanning, de
 
 
 git clone https://github.com/cybernahid-dev/BCP-CyberSuite.git
+
 cd BCP-CyberSuite
+
 pip install -r requirements.txt
+
 python main.py
 
 
