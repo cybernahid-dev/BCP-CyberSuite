@@ -1,0 +1,9 @@
+www
+api
+dev
+staging
+admin
+beta
+static
+cdn
+assets

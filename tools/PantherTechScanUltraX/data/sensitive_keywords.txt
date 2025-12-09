@@ -1,0 +1,14 @@
+password
+secret
+token
+api_key
+bearer
+authorization
+config
+database
+private
+key
+login
+admin
+credential
+access

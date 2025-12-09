@@ -1,3 +1,13 @@
 requests
-scikit-learn
-pandas
+beautifulsoup4
+colorama
+dnspython
+python-whois
+rich
+tqdm
+httpx
+lxml
+jinja2
+asyncio
+aiohttp
+pyfiglet

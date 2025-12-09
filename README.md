@@ -1,155 +1,223 @@
-# BCP-CyberSuite 🚀
+# 🚀 BCP-CyberSuite v4  
+### Next-Gen Autonomous Cyber Recon & Intelligence Framework  
+Advanced • Modular • AI-Augmented • Enterprise-Grade
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Version](https://img.shields.io/badge/BCP--CyberSuite-v4.0-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Platform](https://img.shields.io/badge/Platform-Termux-orange)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Platform](https://img.shields.io/badge/Termux-Linux-Server-success)
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Production](https://img.shields.io/badge/Production-Ready-brightgreen)
 
 ---
 
-## 🌐 Overview
+## 📖 Overview
 
-**BCP-CyberSuite** is a **modular, mobile-friendly, futuristic cybersecurity toolkit** developed by **Bangladesh Cyber Panthers** for ethical hackers, security researchers, and cybersecurity enthusiasts.  
-Designed to run fully on **Termux (Android)**, it combines advanced scanning, detection, and analysis tools in a **single unified suite**, ready for both educational and defensive purposes.
+BCP-CyberSuite v4 is a fully modular, AI-powered, enterprise-grade cyber intelligence framework designed for web applications, servers, APIs, cloud surfaces, and enterprise infrastructures.
 
-> *Empowering ethical cybersecurity research, one tool at a time.*
+The suite combines the intelligence and automation capabilities of tools like Osmedeus, ReconFTW, Nuclei, Wappalyzer AI, Burp Passive Analysis, and Shodan-like reconnaissance — all unified into one powerful and lightweight ecosystem optimized for both Termux and Linux systems.
 
----
-
-## 🚀 Features
-
-| Tool | Functionality | Key Highlights |
-|------|---------------|----------------|
-| **PantherIP** | IP Info & Geolocation | ASN lookup, ISP details, batch IP scan, CSV/JSON export |
-| **PantherPortScan** | Multi-threaded Port Scanner | Top 1000 ports, service detection, fast execution |
-| **PantherWiFi** | WiFi Analyzer | SSID, BSSID, channel interference map, signal strength visualization |
-| **PantherPhish** | Phishing Detector | ML-powered URL analysis, blacklist verification, risk scoring |
-| **PantherSMS** | SMS Spam Detector | AI-based spam/ham classification, logs & probability output |
-| **PantherVuln** | Local Vulnerability Scanner | Termux package auditing, optional educational web vulnerabilities |
+BCP-CyberSuite enables autonomous reconnaissance, fingerprinting, vulnerability detection, API analysis, OSINT, deep crawling, and multi-format reporting.
 
 ---
 
-## 📦 Installation
+## 🏢 Developed by
 
+**Bangladesh Cyber Panthers (BCP)**  
+**Team Lead & Core Developer:** cybernahid-dev  
+**Architecture & Engineering:** BCP Security Division  
+**Repository:** github.com/cybernahid-dev/BCP-CyberSuite
 
-git clone https://github.com/cybernahid-dev/BCP-CyberSuite.git
+---
+
+# 🔥 What’s New in v4.0
+
+### Major Enhancements and Upgrades
+
+- **Brand-new BCP Toolkit Launcher**  
+  A unified control center for all components.
+
+- **Legacy Tool Integration**  
+  Previous standalone tools are merged and enhanced:
+  - BCP-ReconX → **UltraReconX**
+  - PantherScanner → **PantherTechScanUltraX**
+  - API-Scanner → **API-GhostScanner**
+  - LeakDetector → **LeakHunter-X**
+
+- **AI-Augmented Engine 2.0**
+  Improved fingerprinting, scanning logic, and detection accuracy.
+
+- **Professional Reporting System**
+  Generates HTML, JSON, and Markdown reports with executive summaries.
+
+- **Complete Architecture Redesign**
+  Faster, lighter, scalable, and built for enterprise penetration testing.
+
+---
+
+# 🧩 Suite Components
+
+## 1. UltraReconX  
+**Advanced Passive & Active Reconnaissance Engine**
+
+- DNS/WHOIS/CT logs intelligence  
+- Subdomain enumeration (20+ sources)  
+- JavaScript secret detection  
+- Live web scanning and screenshot gathering  
+- AI-powered technology fingerprinting  
+- JSON and HTML professional reporting
+
+---
+
+## 2. PantherTechScanUltraX  
+**Full-Stack Offensive Scanning Engine**
+
+- Full port scan (0–65535) with service detection  
+- WAF Detector Pro + bypass tests  
+- AI Technology Guessing (Wappalyzer-AI Enhanced)  
+- Hidden endpoint crawler  
+- API endpoint discovery  
+- Autonomous reporting engine  
+- DNS intelligence + correlation system
+
+---
+
+## 3. API-GhostScanner  
+**Future-Ready API Security and Analysis Engine**
+
+- Hidden/undocumented API discovery  
+- Authentication & token analysis (JWT, OAuth)  
+- Rate-limit evaluation and bypass testing  
+- Parameter analysis (non-destructive, safe testing)  
+- Professional Jinja2-based API audit reports
+
+---
+
+## 4. LeakHunter-X  
+**Autonomous Sensitive-Data Detection Engine**
+
+- Hardcoded API keys, tokens, and secrets  
+- Entropy-based secret detection  
+- Cloud credentials exposure  
+- CORS/Headers misconfiguration analysis  
+- Git repository leakage checks  
+
+---
+
+# 🎯 Why Choose BCP-CyberSuite?
+
+| Feature | Benefit |
+|---------|---------|
+| Modular Architecture | Extend or replace components easily |
+| Cross-Platform Support | Optimized for Termux, Linux, Cloud |
+| AI-Augmented Engines | Higher accuracy & speed |
+| Professional Reporting | HTML, JSON, Markdown |
+| Multi-threaded Design | Faster scanning performance |
+| Unified Launcher | One command controls all tools |
+| Enterprise-Class | Designed for real engagement workflows |
+
+---
+
+# 🛠 Installation
+
+### Quick Install (Linux / Termux)
+
+```
+git clone https://github.com/cybernahid-dev/BCP-CyberSuite
 cd BCP-CyberSuite
 pip install -r requirements.txt
-python main.py
-
-
-> Compatible with Termux (Android). Tested with Python 3.12+.
-
-
+python3 bcp.py
+```
 
 ---
 
-## 💡 Usage Examples
+# 📦 Termux Setup
 
-1. Launch the Suite
-
-
-
-python main.py
-
-2. Scan an IP
-
-
-
-Select PantherIP
-
-Enter target IP
-
-View geolocation, ISP, and ASN details
-
-
-3. Run Port Scanner
-
-
-
-Select PantherPortScan
-
-Enter IP
-
-Multi-threaded scan shows open ports quickly
-
-
-(Screenshots can be added here for GitHub display)
-
+```
+pkg update && pkg upgrade
+pkg install python git
+git clone https://github.com/cybernahid-dev/BCP-CyberSuite
+cd BCP-CyberSuite
+pip install -r requirements.txt
+python3 bcp.py
+```
 
 ---
 
-## 🔧 Contribution Guidelines
+# 🧪 Supported Environments
 
-We welcome contributions from security researchers and developers:
-
-1. Fork the repository
-
-
-2. Create a new branch (git checkout -b feature/tool-name)
-
-
-3. Add your tool in /tools folder with a run() function
-
-
-4. Update main.py menu
-
-
-5. Submit a pull request
-
-
-
-> All tools must be ethical, educational, and non-malicious.
-
-
-
-
-
-
-## 🛠️ Roadmap / Future Plans
-
-Add AI Threat Detection module
-
-Real-time Network Mapping & Monitoring
-
-Bluetooth & IoT device scanning tools
-
-Optional cloud-based logging & analytics
-
-GUI version (Termux compatible)
-
-
-(Community suggestions welcome!)
-
+| Environment | Support |
+|------------|----------|
+| Termux | ✔ Fully Supported |
+| Linux (Debian/Ubuntu) | ✔ Fully Supported |
+| Kali Linux | ✔ Fully Supported |
+| Cloud Servers | ✔ High Performance |
+| macOS | ✔ Supported (Homebrew required) |
+| Windows WSL | ⚠ Partial Support |
 
 ---
 
-## ⚖️ License & Disclaimer
+# 🚀 BCP Toolkit Launcher
 
-License: MIT
-Disclaimer:
+### Start the launcher:
+```
+python3 bcp.py
+```
 
-> This toolkit is intended for educational and ethical cybersecurity research only.
-Misuse for illegal hacking, unauthorized access, or attacking systems is strictly prohibited.
+### Launcher UI:
 
-
-
+```
+╔══════════════════════════════════════════════════════════╗
+║              BCP-CYBERSUITE v4.0 LAUNCHER                ║
+║        Bangladesh Cyber Panthers - Security Division     ║
+╠══════════════════════════════════════════════════════════╣
+║ 1) UltraReconX           - Elite Recon Engine            ║
+║ 2) PantherTechScanUltraX - Offensive Scanner             ║
+║ 3) API-GhostScanner      - API Security Engine           ║
+║ 4) LeakHunter-X          - Sensitive Data Hunter         ║
+║ 5) System Information    - Suite Health & Status         ║
+║ 6) Update BCP Suite ⟳    - Pull Latest Version           ║
+║ 0) Exit                  - Quit                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 👥 Team & Developer Info
+# 🔄 Update to Latest Version
 
-Team: Bangladesh Cyber Panthers
-Lead Developer: cybernahid-dev
-GitHub Repository: BCP-CyberSuite
-
+```
+cd BCP-CyberSuite
+git pull
+pip install -r requirements.txt
+```
 
 ---
 
-## 🔮 Closing Note
+# 📂 Project Structure
 
-BCP-CyberSuite brings together advanced, modular, and mobile-friendly cybersecurity tools in a professional package.
-Empowering security enthusiasts and researchers worldwide — all from your mobile device. 🚀
+```
+BCP-CyberSuite/
+│── bcp.py
+│── README.md
+│── LICENSE
+│── requirements.txt
+│── tools/
+│   ├── UltraReconX/
+│   ├── PantherTechScanUltraX/
+│   ├── API-GhostScanner/
+│   └── LeakHunter-X/
+```
 
-> “Ethical hacking, education, and defense, powered by Bangladesh Cyber Panthers.”
+---
 
+# 🛡 Legal & Ethical Use
+
+BCP-CyberSuite is developed strictly for **authorized security testing**, **research**, and **education**.  
+Unauthorized scanning or exploitation is prohibited.
+
+---
+
+# © Credits
+
+**Bangladesh Cyber Panthers Security Division**  
+**Research & Development Team**
+## Developed by cybernahid-dev

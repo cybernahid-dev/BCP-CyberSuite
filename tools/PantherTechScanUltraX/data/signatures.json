@@ -1,0 +1,26 @@
+{
+  "WordPress": {
+    "headers": ["x-powered-by:wordpress"],
+    "html": ["wp-content", "wp-includes"]
+  },
+  "Laravel": {
+    "headers": ["x-powered-by:laravel"],
+    "html": ["laravel", "csrf-token"]
+  },
+  "Django": {
+    "headers": ["set-cookie:csrftoken"],
+    "html": ["django"]
+  },
+  "Cloudflare": {
+    "headers": ["cf-ray", "server:cloudflare"]
+  },
+  "ReactJS": {
+    "html": ["react-root", "data-reactroot"]
+  },
+  "VueJS": {
+    "html": ["vue", "id=\"app\""]
+  },
+  "Angular": {
+    "html": ["ng-version"]
+  }
+}

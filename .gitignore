@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.cache/
+output/
+reports/
+session/
+*.session
+tools/__pycache__/
+.idea/
+.vscode/
+*.db
