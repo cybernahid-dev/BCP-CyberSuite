@@ -226,9 +226,12 @@ If you find BCP-CyberSuite useful, please consider:
 - **Twitter:** [@bcp_404](https://twitter.com)
 - **Discord Community:** (Coming Soon)
 
-## 📜 Legal
+## 📜 Legal & Ethical Note
 
 BCP-CyberSuite is for **authorized security testing only**.  
 Always obtain proper permission before scanning any system.
+Author & community is not responsible for any kind of misuse of this toolkit.
+Author and our community doesn't support any illegal activity.
+Use this toolkit in your own environment or system and Cyber security testing
 
 **© 2025 Bangladesh Cyber Panthers. MIT License.**
