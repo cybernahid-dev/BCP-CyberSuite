@@ -231,4 +231,4 @@ If you find BCP-CyberSuite useful, please consider:
 BCP-CyberSuite is for **authorized security testing only**.  
 Always obtain proper permission before scanning any system.
 
-**© 2024 Bangladesh Cyber Panthers. MIT License.**
+**© 2025 Bangladesh Cyber Panthers. MIT License.**
