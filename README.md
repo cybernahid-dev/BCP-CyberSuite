@@ -2,13 +2,14 @@
 
 Next-Gen Autonomous Cyber Recon & Offensive Intelligence Framework
 
-https://img.shields.io/badge/Python-3.8%2B-blue
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/github/stars/cybernahid-dev/BCP-CyberSuite
-https://img.shields.io/github/issues/cybernahid-dev/BCP-CyberSuite
-https://img.shields.io/docker/pulls/cybernahid/bcp-cybersuite
-https://img.shields.io/docker/image-size/cybernahid/bcp-cybersuite/latest
-https://img.shields.io/badge/Version-4.0-blueviolet
+![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License MIT](https://img.shields.io/badge/License-MIT-green)
+![GitHub Stars](https://img.shields.io/github/stars/cybernahid-dev/BCP-CyberSuite)
+![GitHub Issues](https://img.shields.io/github/issues/cybernahid-dev/BCP-CyberSuite)
+![Docker Pulls](https://img.shields.io/docker/pulls/cybernahid/bcp-cybersuite)
+![Docker Image Size](https://img.shields.io/docker/image-size/cybernahid/bcp-cybersuite/latest)
+![Version 4.0](https://img.shields.io/badge/Version-4.0-blueviolet)
+
 
 Advanced • Modular • AI-Augmented • Enterprise-Grade
 
