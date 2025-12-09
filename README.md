@@ -209,15 +209,26 @@ BCP-CyberSuite/
 
 ---
 
-# 🛡 Legal & Ethical Use
+## 🏆 Show Your Support
 
-BCP-CyberSuite is developed strictly for **authorized security testing**, **research**, and **education**.  
-Unauthorized scanning or exploitation is prohibited.
+If you find BCP-CyberSuite useful, please consider:
 
----
+- ⭐ **Star the repository** on GitHub
+- 🐛 **Report bugs** and issues
+- 💡 **Suggest new features**
+- 📢 **Share** with your network
+- ☕ **Support** the developers
 
-# © Credits
+## 📞 Contact & Community
 
-**Bangladesh Cyber Panthers Security Division**  
-**Research & Development Team**
-## Developed by cybernahid-dev
+- **GitHub Issues:** [Report Here](https://github.com/cybernahid-dev/BCP-CyberSuite/issues)
+- **Email:** info.bcp404@gmail.com
+- **Twitter:** [@bcp_404](https://twitter.com)
+- **Discord Community:** (Coming Soon)
+
+## 📜 Legal
+
+BCP-CyberSuite is for **authorized security testing only**.  
+Always obtain proper permission before scanning any system.
+
+**© 2024 Bangladesh Cyber Panthers. MIT License.**
