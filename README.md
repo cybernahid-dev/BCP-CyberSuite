@@ -19,7 +19,7 @@ BCP-CyberSuite is a fully-modular, ultra-futuristic cyber-intelligence framework
 
 ### Table of Contents
 
-- [✨ Features](#✨-features)
+- [✨ Features](#-features)
 - [🚀 Quick Start](#🚀-quick-start)
 - [📦 Installation](#📦-installation)
 - [🧩 Modules](#🧩-modules)
@@ -36,7 +36,7 @@ BCP-CyberSuite is a fully-modular, ultra-futuristic cyber-intelligence framework
 
 ---
 
-## ✨ Features
+## Features
 
 🔥 UltraReconX - Elite Reconnaissance Engine
 
