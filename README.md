@@ -17,18 +17,18 @@ BCP-CyberSuite is a fully-modular, ultra-futuristic cyber-intelligence framework
 
 ---
 
-## 📋 Table of Contents
+### Table of Contents
 
-· ✨ Features
-· 🚀 Quick Start
-· 📦 Installation
-· 🧩 Modules
-· 📁 Project Structure
-· 📊 Usage Examples
-· 📄 Reporting
-· 🤝 Contributing
-· 📜 License
-· 🏢 Developed By
+- [Features](#features)
+- [Quick Start](#quick-start)
+- [Installation](#installation)
+- [Modules](#modules)
+- [Project Structure](#project-structure)
+- [Usage Examples](#usage-examples)
+- [Reporting](#reporting)
+- [Contributing](#contributing)
+- [License](#license)
+- [Developed By](#developed-by)
 
 ---
 
