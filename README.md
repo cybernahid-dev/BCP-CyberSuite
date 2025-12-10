@@ -448,7 +448,7 @@ Leading cybersecurity research and development team from Bangladesh
 
 Core Development Team:
 
-· Project Lead: cybernahid-dev
+**· Project Lead: cybernahid-dev**
 · Framework Architecture: Bangladesh Cyber Panthers Security Division
 · Quality Assurance: BCP Testing Team
 · Documentation: BCP Technical Writers
